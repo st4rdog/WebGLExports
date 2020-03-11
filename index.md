@@ -11,5 +11,7 @@
   - Marble rolling game. Realtime lighting/shadows and post effects.
 - [2017.9.1](2017.9.1)
   - HL2 assets with realtime lighting/shadows, baked indirect.
-<!-- - [2018.05.18 (Stress Test)](2018.05.18 (Stress Test))
-  - Citybuilder AI pathfinding stress test. -->
+<!--
+- [2018.05.18 (Stress Test)](2018.05.18 (Stress Test))
+  - Citybuilder AI pathfinding stress test.
+  -->
